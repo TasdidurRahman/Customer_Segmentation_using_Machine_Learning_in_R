@@ -1,1 +1,3 @@
-# Customer_Segmentation_using_Machine_Learning_in_R
+# Customer Segmentation using Machine Learning
+*Data visualization
+*K-mean Algorithm
