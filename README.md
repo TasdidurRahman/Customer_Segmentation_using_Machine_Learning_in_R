@@ -1,3 +1,3 @@
 # Customer Segmentation using Machine Learning
-*K-mean Algorithm \*Data visualization
+*K-mean Algorithm\ *Data visualization
 
