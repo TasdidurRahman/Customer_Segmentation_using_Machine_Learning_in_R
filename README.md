@@ -2,6 +2,6 @@
 *K-mean Algorithm<br/> 
 *Elbow method<br/>
 *Silhouette method<br/>
-*Gap statistic<br/>  
+*Gap statistic<br/>
 *Data visualization
 
